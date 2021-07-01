@@ -9652,3 +9652,8 @@ Script Stack (0 frames):
 [2021.07.01-21.35.03:129][224]LogPlayLevel: Display: Destroying online subsystem :Context_157
 [2021.07.01-21.35.03:130][224]LogPlayLevel: Display: Destroying online subsystem :Context_156
 [2021.07.01-21.35.03:130][224]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2021.07.01-21.53.02:445][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.07.01-21.53.02:504][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PersonCharacter2" FILE="../../../../../../Users/jpave/Documents/Joaco/Proyectos/SpectatorB/Content/Blueprints/PersonCharacter2.uasset" SILENT=true
+[2021.07.01-21.53.02:628][118]LogSavePackage: Moving '../../../../../../Users/jpave/Documents/Joaco/Proyectos/SpectatorB/Saved/PersonCharacter25E1DCE8948706725367185BC9E0AEC4B.tmp' to '../../../../../../Users/jpave/Documents/Joaco/Proyectos/SpectatorB/Content/Blueprints/PersonCharacter2.uasset'
+[2021.07.01-21.53.02:649][118]AssetCheck: New page: Asset Save: PersonCharacter2
+[2021.07.01-21.53.02:649][118]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PersonCharacter2.PersonCharacter2
