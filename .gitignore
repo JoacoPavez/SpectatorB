@@ -15,6 +15,10 @@ Saved/Config/CrashReportClient/UE4CC-Windows-DA1A611843463032CA789B82C0BB245A/Cr
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Saved/Logs/SpectatorB-backup-2021.07.01-21.54.02.log
 Saved/Logs/SpectatorB.log
-Plugins/*
+Plugins/AdminTools/*
+Plugins/DiscordFeatures/Binaries/*
+Plugins/DiscordFeatures/Intermediate/*
+Plugins/DiscordFeatures/Resources/*
+Plugins/DiscordFeatures/Source/*
 Saved/*
 Intermediate/*
