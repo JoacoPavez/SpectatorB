@@ -22,3 +22,7 @@ Plugins/DiscordFeatures/Resources/*
 Plugins/DiscordFeatures/Source/*
 Saved/*
 Intermediate/*
+BUILDING/*
+Source/*
+Binaries/*
+.vs/*
