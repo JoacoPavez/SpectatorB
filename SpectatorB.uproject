@@ -20,6 +20,11 @@
 			"Name": "DiscordFeatures",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/116f31feebb24938aaba6227f8617db4"
+		},
+		{
+			"Name": "BlueprintJson",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d3abe312cef4826999700204bb4d52e"
 		}
 	]
 }

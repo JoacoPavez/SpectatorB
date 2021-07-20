@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"BlueprintJson": "UE4Editor-BlueprintJson.dll",
+		"BlueprintJsonEditor": "UE4Editor-BlueprintJsonEditor.dll"
+	}
+}
